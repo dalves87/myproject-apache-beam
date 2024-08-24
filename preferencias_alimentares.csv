@@ -1,0 +1,6 @@
+ID_Pessoa;Nome_Pessoa;Idade;Gosta_Frutas;Gosta_Vegetais;Gosta_Doces
+1;João Silva;25;Sim;Não;Sim
+2;Maria Souza;30;Sim;Sim;Não
+3;Pedro Lima;22;Não;Sim;Sim
+4;Ana Santos;27;Sim;Sim;Sim
+5;Lucas Alves;23;Não;Não;Não

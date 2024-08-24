@@ -1,0 +1,6 @@
+ID_Aluno;Nome_Aluno;Nota_Matematica;Nota_Portugues;Nota_Ciencias;Gosta_Frutas;Gosta_Vegetais;Gosta_Doces
+1;João Silva;8.5;7.0;9.0;1;0;1
+2;Maria Souza;6.0;8.5;7.5;1;1;0
+3;Pedro Lima;9.0;7.5;8.0;0;1;1
+4;Ana Santos;7.0;6.5;7.0;1;1;1
+5;Lucas Alves;8.0;9.0;8.5;0;0;0

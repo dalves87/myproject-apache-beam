@@ -1,0 +1,6 @@
+ID;NOME;IDADE;GOSTA_FRUTAS;GOSTA_VEGETAIS;GOSTA_DOCES
+1;João Silva;10;Sim;Não;Sim
+2;Maria Souza;11;Sim;Sim;Não
+3;Pedro Lima;10;Não;Sim;Sim
+4;Ana Santos;11;Sim;Sim;Sim
+5;Lucas Alves;10;Não;Não;Não
